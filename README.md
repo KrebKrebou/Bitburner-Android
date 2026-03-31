@@ -1,6 +1,8 @@
 # Bitburner v2.8.1
 Unofficial port of Bitburner for Android.
 
+Made with Apache Cordova: https://cordova.apache.org/
+
 Original repository for Bitburner: https://github.com/bitburner-official/bitburner-src
 
 All licenses apply. No ads, fully offline html experience. I make no profit from this.
