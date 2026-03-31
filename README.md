@@ -1,4 +1,4 @@
-# Bitburner v2.8.1
+# Bitburner for Android
 Unofficial port of Bitburner for Android.
 
 Made with Apache Cordova: https://cordova.apache.org/
