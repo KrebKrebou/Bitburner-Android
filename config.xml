@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.kreb.bitburner" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Bitburner</name>
+    <description>
+        Bitburner for Android.
+    </description>
+    <author email="berk.aliskan@gmail.com" href="https://github.com/bitburner-official/bitburner-src">
+        Bitburner Team and Kreb
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+	<icon src="www\dist\favicon.png"/>
+	<preference name="SplashScreenDelay" value="0" />
+	<preference name="AutoHideSplashScreen" value="true" />
+</widget>
+
